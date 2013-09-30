@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "UIImage+JTColor"
+  s.name         = "UIImage-JTColor"
   s.version      = "0.0.1"
   s.summary      = "Creating a placeholder UIImage dynamically with color."
   s.homepage     = "https://gist.github.com/jamztang/1571875"
