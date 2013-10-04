@@ -1,4 +1,4 @@
 Specs
 =====
 
-Checkout [SpecUsage](https://github.com/ioscodesnippet/SpecUsage) guide
+[ioscodesnippet.github.io](https://github.com/ioscodesnippet/ioscodesnippet.github.io)
